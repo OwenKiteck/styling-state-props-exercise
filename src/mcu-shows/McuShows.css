@@ -1,12 +1,12 @@
-.McuShows h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.McuShows > h1{
+    text-align: center;
 }
 
 .McuShows {
-    color: #121f56;
+    border: 5px solid #121f56;
     width: 500px;
     padding: 10px;
     margin: 0 auto;
     background-color: #1d3e8d;
-    color: rgb(255, 255, 255, 0.9);
+    color: rgba(255, 255, 255, 0.9);
 }
